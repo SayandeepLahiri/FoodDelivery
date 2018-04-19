@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "677492810515",
+    "firebase_url": "https://fooddeliveryapp-bbaaf.firebaseio.com",
+    "project_id": "fooddeliveryapp-bbaaf",
+    "storage_bucket": "fooddeliveryapp-bbaaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677492810515:android:bc9826db6b075145",
+        "android_client_info": {
+          "package_name": "com.example.sayandeep.fooddelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677492810515-f8vurr7q9kgc722oos1qi3si6bu5shgb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCldNauxjCt73G1N0_Su2DXNUtEFXDRISI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

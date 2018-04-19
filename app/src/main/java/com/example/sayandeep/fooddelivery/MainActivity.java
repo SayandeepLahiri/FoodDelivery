@@ -20,9 +20,9 @@ public class MainActivity extends AppCompatActivity {
     protected void onStart() {
         super.onStart();
         FirebaseUser currentUser=firebaseAuth.getCurrentUser();
-        if(currentUser==null){
+
             Intent singUpIntent=new Intent(MainActivity.this,LoginActivity.class);
             startActivity(singUpIntent);
-        }
+
     }
 }

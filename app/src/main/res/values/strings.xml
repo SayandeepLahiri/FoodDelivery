@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">FoodDelivery</string>
+    <string name="welcome">Welcome</string>
+    <string name="loginHint">Enter your mobile number</string>
+    <string name="OtpHint">Enter the code</string>
+    <string name="OtpButton">Send Again</string>
+    <string name="SendOtp">Send OTP</string>
+    <string name="RequestOtp">Request OTP</string>
 </resources>
